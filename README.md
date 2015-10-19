@@ -14,6 +14,8 @@ The course will consist of 2 hours lecture and 2 hours lab classes. The lab clas
 
 In the course we will use the GNU C++ compiler for Linux. For your homework, you can use any other C++ compiler. This could be for example the *Microsoft Visual C++ compiler* for Windows or *clang* which comes along with the XCode app on Mac OS. However be aware that using compiler specific extensions to C++ is strongly discouraged and may result in a compile failure in the Travis CI setup we are using to compile your homework (which will use GNU C++).
 
+If you want to use the Microsoft Visual C++ IDE, then check out the [Dreakspark](http://www.dreamspark.com/) web-page, where you should be able to get it for free as a student. Not however, that we will not be able to give you any support for this.
+
 # Github
 
 All program codes and lecture notes which will be published throughout the lecture will be made available via the Github website. Even more important,
@@ -42,3 +44,4 @@ If for some reason the solution using VirtualBox should not work, you can use a 
 - [VirtualBox](https://www.virtualbox.org)
 - [Linux Live USB creator](http://www.linuxliveusb.com)
 - A [Youtube video](https://www.youtube.com/watch?v=yYMLSpBdRec) on how to use LiLi
+- [Microsoft Dreamspark](http://www.dreamspark.com/), the place to go for the Windows C++ compiler
